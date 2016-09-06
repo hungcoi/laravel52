@@ -6,7 +6,7 @@ bootstrap/compiled.php
 app/storage/
 
 # Laravel 5 & Lumen specific
-resources/assets/bower/
+public/bower/
 bootstrap/cache/
 .env
 storage/
